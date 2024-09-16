@@ -337,43 +337,43 @@ em{
 }
 
 .banner1{
-    background: url(Images/About-Banner.svg);
+    background: url(Images/About-Banner.webp);
     background-size: cover;
     background-position: 11% 0%;
 }
 .banner2{
-    background: url(Images/Literacy-Banner.svg);
+    background: url(Images/Literacy-Banner.webp);
     background-size: cover;
     background-position: center;
 }
 .banner3{
-    background: url(Images/Healthcare-Banner.svg);
+    background: url(Images/Healthcare-Banner.webp);
     background-size: cover;
     background-position: center;
 }
 .banner4{
-    background: url(Images/Social-Banner.svg);
+    background: url(Images/Social-Banner.webp);
     background-size: cover;
     background-position: center;
 }
 
 .sec1 {
-    background: url(Images/banner2.svg);
+    background: url(Images/banner2.webp);
     background-size: cover;
 }
 
 .sec2 {
-    background: url(Images/Social-Banner.svg);
+    background: url(Images/Social-Banner.webp);
     background-size: cover;
 }
 
 .sec3 {
-    background: url(Images/banner4.svg);
+    background: url(Images/banner4.webp);
     background-size: cover;
 }
 
 .sec4 {
-    background: url(Images/banner5.svg);
+    background: url(Images/banner5.webp);
     background-size: cover;
 }
 @media (max-width:1260px){
@@ -391,7 +391,7 @@ em{
         height: 25vh;
     }
     .banner1 {
-            background: url(Images/MDot-Banner1.svg);
+            background: url(Images/MDot-Banner1.webp);
             background-size: cover;
         }
     .desc{

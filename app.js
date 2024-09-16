@@ -34,7 +34,7 @@ function updateImageSrc() {
         image.src = 'Images/MDot-about.svg';
     } else {
         // Otherwise, use the original image src
-        image.src = 'Images/About-Banner.svg';
+        image.src = 'Images/About-Banner.webp';
     }
 }
 
