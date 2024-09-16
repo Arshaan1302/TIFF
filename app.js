@@ -31,7 +31,7 @@ function updateImageSrc() {
 
     if (mediaQuery.matches) {
         // If the viewport is 460px or less, change the image src
-        image.src = 'Images/MDot-about.svg';
+        image.src = 'Images/MDot-about.webp';
     } else {
         // Otherwise, use the original image src
         image.src = 'Images/About-Banner.webp';
