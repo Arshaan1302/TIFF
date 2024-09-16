@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="18" viewBox="0 0 20 18">
+    <g data-name="Group 21108">
+        <g data-name="Group 21075">
+            <g data-name="Rectangle 131" style="fill:#fff;stroke:#d95c96;stroke-width:.2px">
+                <rect width="20" height="18" rx="3" style="stroke:none"/>
+                <rect x=".1" y=".1" width="19.8" height="17.8" rx="2.9" style="fill:none"/>
+            </g>
+        </g>
+        <path data-name="Path 17733" d="M4.193 4V.665h-1L2.382 2.75 1.572.665H.577V4h.71V1.6l.94 2.4h.31l.94-2.4V4zm3.02 0v-.625h-1.65v-.76h1.615V1.99H5.563v-.7h1.65V.665H4.852V4zm3.54 0V.665h-.71v2.1L8.5.665h-.73V4h.71V1.825L10.068 4zm2.165.06a1.324 1.324 0 0 0 1.505-1.395v-2H13.7v1.98a.719.719 0 0 1-.78.785.723.723 0 0 1-.785-.785V.665h-.72v2a1.324 1.324 0 0 0 1.503 1.395z" transform="translate(3 9)" style="fill:#022e5c"/>
+        <g data-name="Group 21107">
+            <g data-name="Group 21104" transform="translate(-337 -16)">
+                <circle data-name="Ellipse 319" cx="1" cy="1" r="1" transform="translate(342 20)" style="fill:#d95c96"/>
+            </g>
+            <g data-name="Group 21105" transform="translate(-333 -16)">
+                <circle data-name="Ellipse 319" cx="1" cy="1" r="1" transform="translate(342 20)" style="fill:#d95c96"/>
+            </g>
+            <g data-name="Group 21106" transform="translate(-329 -16)">
+                <circle data-name="Ellipse 319" cx="1" cy="1" r="1" transform="translate(342 20)" style="fill:#d95c96"/>
+            </g>
+        </g>
+    </g>
+</svg>
